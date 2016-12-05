@@ -3,5 +3,5 @@
 
 #   filename ==  c1.py
 
-print (" == ЯЧСМИ  QQQ ==" )
-print (" commit 4 " )
+print (" ==  QQQ   AAAA BBB  ==" )
+print (" commit 6AAA " )
