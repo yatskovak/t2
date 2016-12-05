@@ -3,5 +3,5 @@
 
 #   filename ==  b1.py
 
-print (" == ФЫВА  QQQ ==" )
+print (" == ФЫВА  QQQ == ЙЙФФЮЮ ==" )
 print (" commit 4 " )
