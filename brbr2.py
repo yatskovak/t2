@@ -11,3 +11,5 @@ name_arch = time.strftime('%Y%m%d_%H%M%S')  +'.7z'
 print ("-1-")
 aaa = input("Press Enter  - ") # for Python3      and raw_input('How long to wait: ')   # for Python2     
 print (aaa, "   ---   ", name_arch)
+
+print (aaa, "2    ---   ", name_arch)
