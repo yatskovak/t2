@@ -13,3 +13,5 @@ aaa = input("Press Enter  - ") # for Python3      and raw_input('How long to wai
 print (aaa, "   ---   ", name_arch)
 
 print (aaa, "2    ---   ", name_arch)
+
+print (aaa, "3    ---   ", name_arch)
