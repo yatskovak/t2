@@ -6,5 +6,6 @@ print (" commit 3 " )
 print (" commit a1 ==1  " )
 
 
+
 print (" aaa = ФЫВА  QQQ == ЙЙФФЮЮ ==" )
-print (" a1   == 2b" )
+print (  "a1   ==    3a" )
