@@ -1,0 +1,27 @@
+git remote
+==========
+Created Wednesday 16 October 2019
+
+
+##### замена доступа к удалённому репозитарию  по HTTP  на  SSH,   смотри
+
+##### git remote help
+
+
+
+[adm7@C77 week2_yak]$   git remote -v
+origin  https://github.com/yatskovak/week2_yak.git (fetch)
+origin  https://github.com/yatskovak/week2_yak.git (push)
+
+[adm7@C77 week2_yak]$   git remote remove origin
+[adm7@C77 week2_yak]$   git remote -v
+
+
+[adm7@C77 week2_yak]$ git remote add origin git@github.com:yatskovak/week2_yak.git
+
+[adm7@C77 week2_yak]$ git remote -v
+origin  git@github.com:yatskovak/week2_yak.git (fetch)
+origin  git@github.com:yatskovak/week2_yak.git (push)
+
+
+keyssh.sh  --   and USE GIT SSH !!!!
